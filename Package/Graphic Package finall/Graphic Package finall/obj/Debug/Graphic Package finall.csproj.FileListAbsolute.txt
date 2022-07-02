@@ -1,0 +1,20 @@
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\bin\Debug\Graphic Package finall.exe.config
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\bin\Debug\Graphic Package finall.exe
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\bin\Debug\Graphic Package finall.pdb
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.csprojAssemblyReference.cache
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic_Package_finall.Form1.resources
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic_Package_finall.Properties.Resources.resources
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.csproj.GenerateResource.cache
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.csproj.CoreCompileInputs.cache
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.exe
+C:\Users\Mahfouz\source\repos\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.pdb
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\bin\Debug\Graphic Package finall.exe.config
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\bin\Debug\Graphic Package finall.exe
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\bin\Debug\Graphic Package finall.pdb
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.csprojAssemblyReference.cache
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic_Package_finall.Form1.resources
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic_Package_finall.Properties.Resources.resources
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.csproj.GenerateResource.cache
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.csproj.CoreCompileInputs.cache
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.exe
+F:\00 Second tirm\Graphics\Lecs\Package\Graphic Package finall\Graphic Package finall\obj\Debug\Graphic Package finall.pdb
